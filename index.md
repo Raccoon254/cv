@@ -17,7 +17,7 @@
 <!-- Image -->
 <div style="width: 50%; display: flex; align-items: center; justify-content: center">
 <!-- https://github.com/Raccoon254/cv/blob/main/ -->
-<img src="images/ken.jpg?raw=true" alt="Steve Osoro Tom" style="border-radius: 10px; width: 280px !important" />
+<img src="images/ken.jpg?raw=true" alt="Steve Osoro Tom" style="border-radius: 10px; margin-top: 30px; width: 280px !important" />
 </div>
 </div>
 
@@ -115,9 +115,8 @@ Chuka University, Faculty of Science and Technology
 ## References
 Available upon request
 
-<!-- Whatapp button styled well -->
-<!-- https://wa.link/w1774n -->
-
 <center>
-
+  <a href="https://wa.link/w1774n" style="display: inline-block; padding: 10px 20px; background-color: transparent; color: black; text-decoration: none; border-radius: 50px; font-family: Arial, sans-serif; font-size: 16px; border: 2px solid #25D366">
+    Chat on WhatsApp
+  </a>
 </center>
