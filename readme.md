@@ -1,7 +1,7 @@
 <center>
 <h1>Steve Osoro Tom</h1>
 </center>
-
+<hr>
 <div style="display: flex; justify-content: center; align-items: center">
 <div style="margin-right: 20px; width: 50%;">
 <h2>Software Engineer | UI/UX Designer</h2>
