@@ -17,7 +17,7 @@
 <!-- Image -->
 <div style="width: 50%; display: flex; align-items: center; justify-content: center">
 <!-- https://github.com/Raccoon254/cv/blob/main/ -->
-<img src="images/ken.jpg?raw=true" alt="Steve Osoro Tom" style="border-radius: 10px; margin-top: 30px; width: 280px !important" />
+<img src="https://github.com/Raccoon254/cv/blob/main/images/ken.jpg?raw=true" alt="Steve Osoro Tom" style="border-radius: 10px; margin-top: 30px; width: 280px !important" />
 </div>
 </div>
 
