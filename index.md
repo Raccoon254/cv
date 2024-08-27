@@ -1,13 +1,25 @@
-# Steve Osoro Tom
-**Software Developer | UI/UX Designer | Digital Marketer**
-<!-- Image -->
-![Steve Osoro Tom](https://avatars.githubusercontent.com/u/77411692?s=400&u=raccoon254&v=4)
+<center>
+<h1>Steve Osoro Tom</h1>
+</center>
+
+<div style="display: flex; justify-content: center; align-items: center">
+<div style="margin-right: 20px; width: 50%;">
+<h2>Software Engineer | UI/UX Designer</h2>
 
 **Contact Information:**
 - Phone: +254758481320
 - Email: tomsteve187@gmail.com
 - Website: [tomsteve.vercel.app](https://tomsteve.vercel.app)
 - GitHub: [github.com/Raccoon254](https://github.com/Raccoon254)
+- LinkedIn: [linkedin.com/in/steve-tom](https://www.linkedin.com/in/steve-tom-822a81230/)
+
+</div>
+<!-- Image -->
+<div style="width: 50%; display: flex; align-items: center; justify-content: center">
+<!-- https://github.com/Raccoon254/cv/blob/main/ -->
+<img src="images/ken.jpg?raw=true" alt="Steve Osoro Tom" style="border-radius: 10px; width: 280px !important" />
+</div>
+</div>
 
 ## Summary
 Dedicated and versatile software developer with a strong foundation in Applied Computer Science. Proficient in multiple programming languages and frameworks, with a passion for creating efficient, scalable web applications. Experienced in UI/UX design and digital marketing, committed to delivering user-centric solutions that drive business growth.
@@ -24,7 +36,7 @@ Chuka University, Faculty of Science and Technology
 - **Version Control:** Git
 - **Development Tools:** JetBrains IDEs, Visual Studio Code, Android Studio
 - **AI-Assisted Coding:** GitHub Copilot
-- **Web Technologies:** RESTful APIs, Socket.IO, WebSockets
+- **Web Technologies:** RESTful APIs, Socket IO, WebSockets
 - **Cloud Platforms:** Vercel, Aws, Google Cloud
 - **Design Tools:** Adobe XD, Figma
 - **Digital Marketing:** SEO, Social Media Marketing
@@ -56,7 +68,7 @@ Chuka University, Faculty of Science and Technology
 - [View Project](https://status-saver.vercel.app/)
 
 ### Jestorm
-*Role: Lead Developer | Technologies: Next.js, Socket.IO, PayPal API*
+*Role: Lead Developer | Technologies: Next.js, Socket IO, Prisma, PayPal API*
 - Developing a comprehensive project management application with real-time messaging capabilities
 - Implementing secure payment processing using PayPal integration
 - Designing an intuitive user interface for efficient client and project management
@@ -102,3 +114,10 @@ Chuka University, Faculty of Science and Technology
 
 ## References
 Available upon request
+
+<!-- Whatapp button styled well -->
+<!-- https://wa.link/w1774n -->
+
+<center>
+
+</center>
